@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=gauquier&amp;show_icons=true" alt="GitHub Stats"></p>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gauquier&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+
 <!--
 **gauquier/gauquier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
